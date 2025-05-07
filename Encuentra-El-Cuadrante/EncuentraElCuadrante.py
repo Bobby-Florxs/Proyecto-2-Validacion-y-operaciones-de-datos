@@ -1,4 +1,4 @@
-#Dos numeros de Entrada
+#Dos numeros de Entrada 2
 while True:
     try: 
         x = float(input("ingresa la coordenada x: "))

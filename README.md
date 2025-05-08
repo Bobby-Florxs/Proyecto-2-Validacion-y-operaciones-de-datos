@@ -15,3 +15,9 @@ Luego, se declara otra variable llamada `longitud`, la cual, mediante la funció
 Posteriormente, se declaran el **límite superior** y el **límite inferior**, los cuales nos ayudarán a determinar si la frase es correcta o no.
 
 Estas variables se utilizan dentro de un condicional `if`, y dependiendo de la longitud de la frase, se evaluará si está dentro del rango definido por los límites. De esta forma, se puede determinar si la frase es válida o no.
+
+# **Reflexión**
+
+El bootcamp ha sido de gran utilidad para mi formación como programador. Temas como las estructuras condicionales y los loops han sido especialmente importantes, ya que me han ayudado a aclarar dudas que tenía y a comprender mejor cómo se aplican en distintos contextos.
+
+Gracias a la práctica constante y a las explicaciones claras, ahora me siento con más seguridad para utilizar estos elementos en mis proyectos. Sin duda, esta experiencia ha fortalecido mis conocimientos y me ha permitido avanzar con mayor claridad en mi proceso de aprendizaje.
